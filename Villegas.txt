@@ -1,3 +1,7 @@
 Villegas
 Hola mundo
+<<<<<<< HEAD
 usuari1
+=======
+usuari2
+>>>>>>> e4b779322b1496b0860e3ae2f31b5b292c14bde1
